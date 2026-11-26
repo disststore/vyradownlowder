@@ -1,0 +1,13 @@
+
+{
+  "name": "vyra-backend",
+  "version": "1.0.0",
+  "description": "VYRA Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
